@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Built-By: ghufran.ahmad
-Created-By: Apache Maven 3.3.9
-Build-Jdk: 1.8.0_144
-Main-Class: com.abc.learning.ExecutableJar.App
-
