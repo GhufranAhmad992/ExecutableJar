@@ -8,6 +8,6 @@ public class App {
 		System.out.println("Enter your name:");
 		String name = sc.nextLine();
 
-		System.out.println("Hello, " + name + " Welcome to the ABC learning...OK, Thanks... see you soon!");
+		System.out.println("Hello, " + name + " Welcome to the ABC learning...OK, Thanks... see you soon! Let's Do This..");
 	}
 }
